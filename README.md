@@ -14,7 +14,7 @@ You need to install:
 
 ### How to run
 
-You only need to execute smartagent.py
+You only need to execute *smartagent.py*
 
 ### Disclaimer
 
