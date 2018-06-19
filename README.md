@@ -1,7 +1,7 @@
 # MountainCar-with-SARSAlambda
 
-This code is part of a project that I conducted at the Ecole polytechnique fédérale de Lausanne.
-The basic idea is to solve a Mountain Car problem implementing a SARSA(λ) algorithm. 
+This project is a part of the Unsupervised & reinforcement learning in neural networks course at the Ecole polytechnique fédérale de Lausanne.
+The basic idea is to solve a Mountain Car problem developing a SARSA(λ) algorithm. 
 
 
 ### Installation
